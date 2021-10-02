@@ -1,0 +1,45 @@
+[
+  {
+    "id": 0,
+    "name": "Mongolian Beef",
+    "imageName": "beef",
+    "category": "Beef",
+    "price": 16.5
+  },
+  {
+      "id": 1,
+    "name": "Beef & CashewNut",
+    "imageName": "beef1",
+    "category": "Beef",
+    "price": 16.5
+  },
+  {
+    "id": 2,
+    "name": "Chicken & Chow Mein",
+    "imageName": "beef2",
+    "category": "Chicken",
+    "price": 16.5
+  } ,
+  {
+    "id": 3,
+    "name": "Chicken Cashew Nut",
+    "imageName": "beef2",
+    "category": "Chicken",
+    "price": 16.5
+  } ,
+  {
+    "id": 4,
+    "name": "Chili Chicken",
+    "imageName": "beef2",
+    "category": "Chicken",
+    "price": 16.5
+  } ,
+  {
+    "id": 5,
+    "name": "Sweet & sour pork",
+    "imageName": "beef2",
+    "category": "Pork",
+    "price": 16.5
+  }
+  
+]
